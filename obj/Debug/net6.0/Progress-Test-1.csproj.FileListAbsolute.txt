@@ -1,0 +1,15 @@
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\bin\Debug\net6.0\Progress-Test-1.exe
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\bin\Debug\net6.0\Progress-Test-1.deps.json
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\bin\Debug\net6.0\Progress-Test-1.runtimeconfig.json
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\bin\Debug\net6.0\Progress-Test-1.dll
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\bin\Debug\net6.0\Progress-Test-1.pdb
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.csproj.AssemblyReference.cache
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.AssemblyInfoInputs.cache
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.AssemblyInfo.cs
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.csproj.CoreCompileInputs.cache
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.dll
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\refint\Progress-Test-1.dll
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.pdb
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\Progress-Test-1.genruntimeconfig.cache
+E:\YandexDisk\My Geek Brains\06 Итоги первого блока\Test\Progress-Test-1\obj\Debug\net6.0\ref\Progress-Test-1.dll
